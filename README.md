@@ -1,0 +1,2 @@
+# NetCoreDev
+Training ... by doing
