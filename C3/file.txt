@@ -1,0 +1,1 @@
+The stream is to a file that I can write to.
